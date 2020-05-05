@@ -1,2 +1,2 @@
-# Enhancing the Prediction of Lake-Effect Snow Band Placement Downwind of Lake Ontario with Machine Learning
+# Environmental Analysis and Prediction of Lake-Effect Snow Events Downwind of Lake Ontario with Machine Learning
 
