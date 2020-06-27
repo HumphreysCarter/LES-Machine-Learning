@@ -23,8 +23,3 @@ git clone https://github.com/HumphreysCarter/LES-Machine-Learning.git
 * arm_pyart
 * cartopy
 * joblib
-
-## Updates
-### Version 0.1.0 (12 May 2020)
-* Initial build
-
