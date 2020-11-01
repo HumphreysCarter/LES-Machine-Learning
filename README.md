@@ -18,8 +18,8 @@ git clone https://github.com/HumphreysCarter/LES-Machine-Learning.git
 
 ## Dependencies
 * Python 3.7
-* scikit-learn
+* scikit-learn-0.23.2
+* joblib-0.17.0
 * MetPy
 * arm_pyart
 * cartopy
-* joblib
